@@ -5,9 +5,9 @@
 
 
 <p align="center">
-<a href="https://github.com/salihgueler">
+<a href="https://github.com/Yemresalcan">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=salihgueler&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="yunusemresalcan"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihgueler&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="yunusemresalcan"/>
+ 
 </a>
 </p>
 
