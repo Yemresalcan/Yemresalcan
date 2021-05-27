@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://media.tenor.com/images/2c3b7c5af461b8cb60428203b3e19fff/tenor.gif" height="33px" /></h3> 
+> 
 </div>
 <p align="center">
   
