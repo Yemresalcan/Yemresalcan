@@ -4,9 +4,7 @@
 <html>
 
 
-<p align="center">
-<a href="https://github.com/Yemresalcan">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=salihgueler&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="yunusemresalcan"/>
+
  
 </a>
 </p>
