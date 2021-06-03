@@ -26,10 +26,7 @@
 
 ### Reach Me
 - ![](https://komarev.com/ghpvc/?username=Yemresalcan)
- 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yemresalcan&theme=radical)](https://github.com/Yemresalcan/github-readme-stats)
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://media.tenor.com/images/2c3b7c5af461b8cb60428203b3e19fff/tenor.gif" height="33px" /></h3> 
