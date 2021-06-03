@@ -23,7 +23,9 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?color=272D2D&logo=postgresql&logoColor=darkblue" alt="postgresql logo" title="postgresql"  height="25"/>
 <img src="https://img.shields.io/badge/Flutter-316192?color=272D2D&logo=flutter&dart=darkblue" alt="flutter Dart" title="flutter" height="25"/>]
 
+![Yemresalcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yemresalcan&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yemresalcan&theme=radical)](https://github.com/Yemresalcan/github-readme-stats)
 ### Reach Me
 - ![](https://komarev.com/ghpvc/?username=Yemresalcan)
 
