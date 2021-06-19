@@ -12,6 +12,8 @@
     
 <br>
 
+### Reach Me
+- ![](https://komarev.com/ghpvc/?username=Yemresalcan)-
 ## 🛠 My Tools
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://badges.aleen42.com/src/visual_studio_dfc.svg"/><img src="https://badges.aleen42.com/src/atom.svg"/><img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Android Studio logo" title="Android Studio" height="35" />]
@@ -29,8 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yemresalcan&layout=compact)](https://github.com/Yemresalcan/github-readme-stats)
 
-### Reach Me
-- ![](https://komarev.com/ghpvc/?username=Yemresalcan)
+
 
 
 <div align="center">
