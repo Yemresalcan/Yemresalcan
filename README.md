@@ -8,12 +8,13 @@
     <img src="https://img.shields.io/badge/C%23-239120?color=272D2D&logo=c-sharp&logoColor=purple" alt="c-sharp logo" title="c-sharp"  height="25"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?color=272D2D&logo=java&logoColor=orange" alt="java logo" title="java"  height="25"/>
     <img src="https://img.shields.io/badge/C-00599C?color=272D2D&logo=c&logoColor=blue" alt="c logo" title="c"  height="25"/>
+     <img src="https://img.shields.io/badge/Android-00599C?color=272D2D&logo=android&logoColor=blue" alt="Android" title="android"  height="25"/>>
     
 <br>
 
 ## 🛠 My Tools
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://badges.aleen42.com/src/visual_studio_dfc.svg"/>]
+<img src="https://badges.aleen42.com/src/visual_studio_dfc.svg"/><img src="https://badges.aleen42.com/src/atom.svg"/><img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Android Studio logo" title="Android Studio" height="35" />]
 <br>
 
 ## 📖 Currently Learning
