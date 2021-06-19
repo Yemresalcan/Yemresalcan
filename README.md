@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/C%23-239120?color=272D2D&logo=c-sharp&logoColor=purple" alt="c-sharp logo" title="c-sharp"  height="25"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?color=272D2D&logo=java&logoColor=orange" alt="java logo" title="java"  height="25"/>
     <img src="https://img.shields.io/badge/C-00599C?color=272D2D&logo=c&logoColor=blue" alt="c logo" title="c"  height="25"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?color=272D2D&logo=bootstrap&logoColor=purple" alt="bootstrap logo" title="bootstrap"  height="25"/>
+    
 <br>
 
 ## 🛠 My Tools
