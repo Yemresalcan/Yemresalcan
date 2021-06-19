@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?color=272D2D&logo=postgresql&logoColor=darkblue" alt="postgresql logo" title="postgresql"  height="25"/>
 <img src="https://img.shields.io/badge/Flutter-316192?color=272D2D&logo=flutter&dart=darkblue" alt="flutter Dart" title="flutter" height="25"/>]
 
-![Yemresalcan's GitHub stats](https://camo.githubusercontent.com/ce05f7943328d44aa0d0284a85cef3ff665fd78a703c2006673b802ce45b9ead/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6172796173686168326b26686964655f7469746c653d66616c7365266c61796f75743d636f6d70616374267468656d653d676f7468616d26636f756e745f707269766174653d74727565)
+![Yemresalcan's GitHub stats]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yemresalcan&theme=radical)](https://github.com/Yemresalcan/github-readme-stats)
 ### Reach Me
