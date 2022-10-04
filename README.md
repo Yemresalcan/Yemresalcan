@@ -10,6 +10,11 @@
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators
 
+
+### 🔧 Languages and Tools:
+<img src="https://img.shields.io/badge/HTML5-FC4011?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-5A8AB9?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-8A12FC?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F3D91B?style=for-the-badge&logo=javascript&logoColor=white" /><br><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0076C6?style=for-the-badge&logo=typescript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-09D2F6?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-E87A51?style=for-the-badge&logo=json&logoColor=white" />
+
+
   
 ### Connect with me:  
 
