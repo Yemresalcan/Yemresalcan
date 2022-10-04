@@ -1,11 +1,8 @@
 ### Hi there, I'm Yunus emre SALCAN 👋              
-                                                                  
-                      
-<p align="center"> <img src="https://github.com/Yemresalcan/Yemresalcan/blob/main/LinkedIn%20Banner.png" />  </p>
+<p align="center"> <img src="https://scontent.fayt3-1.fna.fbcdn.net/v/t39.30808-6/275444806_5256699674374158_2895401517851480089_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=sGrMxumCJzwAX-pqXPW&_nc_ht=scontent.fayt3-1.fna&oh=00_AT-1hJh6nTg_4Z14gT6CV8jdixZEYZIGwnCJTcCxZ35PqA&oe=63409CE8" width="150px" alt="Yemresalcan" />                                                       
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yemresalcan&label=Profile%20views&color=0e75b6&style=flat" alt="Yemresalcan" /> 
- <img
-src="https://img.shields.io/github/followers/Yemresalcan?style=social" alt="Yemresalcan" />
+ <img src="https://img.shields.io/github/followers/Yemresalcan?style=social" alt="Yemresalcan" />
 
 ## I'm a Jr.Front-End Developer,
     
