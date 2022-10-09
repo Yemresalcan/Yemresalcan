@@ -28,7 +28,7 @@
 <br>
  <p align="center"><img src=https://github-profile-trophy.vercel.app/?username=Yemresalcan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy width="100%" /></p>
 
-<p align="center"> <img src=source.gif /> </p>
+<p align="center"> <img src= "https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" /> </p>
 
 <p align="center" height='130px'><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yemresalcan&theme=dark"/>  
 
