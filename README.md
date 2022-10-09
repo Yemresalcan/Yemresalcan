@@ -32,6 +32,9 @@
 
 <p align="center" height='130px'><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yemresalcan&theme=dark"/>  
 
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/yunusemreS"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunusemreS" /></a></p><br><br>
+
 <!-- <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=dfnf3b6pfm5cxs5ix9nfyrtep&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfnf3b6pfm5cxs5ix9nfyrtep" alt="spotify" height="320px"/></p> -->
 
