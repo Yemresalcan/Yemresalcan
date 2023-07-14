@@ -1,47 +1,24 @@
-### Hi there, I'm Yunus emre SALCAN 👋              
-<p align="center"> <img src="https://scontent.fayt3-1.fna.fbcdn.net/v/t39.30808-6/275444806_5256699674374158_2895401517851480089_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=sGrMxumCJzwAX-pqXPW&_nc_ht=scontent.fayt3-1.fna&oh=00_AT-1hJh6nTg_4Z14gT6CV8jdixZEYZIGwnCJTcCxZ35PqA&oe=63409CE8" width="150px" alt="Yemresalcan" />                                                       
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yemresalcan&label=Profile%20views&color=0e75b6&style=flat" alt="Yemresalcan" /> 
- <img src="https://img.shields.io/github/followers/Yemresalcan?style=social" alt="Yemresalcan" />
-
-## I'm a Jr.Front-End Developer,
-    
-- 👨🏾‍💻 See a few of my projects [linkedin]
-- 🌱 I’m currently learning everything 🤣 
-- 👯 I’m looking to collaborate with other content creators
+# 💫 About Me:
+🔭 You can check out my website here<br>🌱 I’m currently learning everything 🤣<br>👯 I’m looking to collaborate with other content creators<br><br>
 
 
-### 🔧 Languages and Tools:
-<img src="https://img.shields.io/badge/HTML5-FC4011?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-5A8AB9?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-8A12FC?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F3D91B?style=for-the-badge&logo=javascript&logoColor=white" /><br><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0076C6?style=for-the-badge&logo=typescript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-09D2F6?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-E87A51?style=for-the-badge&logo=json&logoColor=white" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yemresalcan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yunusemresalcan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/yesdev_exe) 
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yemresalcan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yemresalcan&theme=vue-dark&hide_border=false)<br/>
+
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Yemresalcan&icon=2&color=1)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/yunusemreS) 
 
   
-### Connect with me:  
-
-[<img align="left" alt="@Yesjpeg| Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
-[<img align="left" alt="Yunusemresalcan | LinkedIn" width="35px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
-
-
-<br /> 
-<br>
-<br>
-<br>
- <p align="center"><img src=https://github-profile-trophy.vercel.app/?username=Yemresalcan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy width="100%" /></p>
-
-<p align="center"> <img src= "https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" /> </p>
-
-<p align="center" height='130px'><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yemresalcan&theme=dark"/>  
-
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/yunusemreS"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunusemreS" /></a></p><br><br>
-
-<!-- <h3 align="center">I'm currently vibing to 🎧</h3>
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=dfnf3b6pfm5cxs5ix9nfyrtep&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfnf3b6pfm5cxs5ix9nfyrtep" alt="spotify" height="320px"/></p> -->
-
-
-
-
-[twitter]: https://twitter.com/Yesjpeg/ 
-[linkedin]: https://www.linkedin.com/in/yunusemresalcan
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
