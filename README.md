@@ -2,8 +2,8 @@
 A passionate frontend developer from Turkey, I do content on Design and Development. I really enjoy learning languages and frameworks like HTML, CSS, JavaScript, ReactJS, NextJS, TypeScript as well as work in. I love open source development and I build things on my GitHub profile. Welcome to my Github profile.👩🏻‍💻
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yemresalcan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yunusemresalcan/) 
-<a href="https://medium.com/@ezranbayantemur" target="_blank">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yemresalcan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunusemresalcan/) 
+<a href="https://medium.com/@yunusemresalcan" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@yunusemresalcan">
 </a>
 <a href="mailto:yunusemresalcan@gmail.com" target="_blank">
