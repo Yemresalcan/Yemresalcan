@@ -20,9 +20,12 @@ A passionate frontend developer from Turkey, I do content on Design and Developm
 
 <img src="https://github.com/adriantwarog/adriantwarog/blob/f18f21d501c68faff89e036755b92c53e341e8c1/ipad%20learning.gif" align="right" width="500" height="270" />
 
-<a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
-    <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
-</a>
+<div align="center">
+  <a href="https://open.spotify.com/user/yunusemesalcan?si=NBz3tSmFQjayoNPnhrxc5Q&nd=1&dlsi=be48b9827db94045">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yunusemesalcan" alt="Spotify recently played"  />
+  </a>
+</div>
+
 
 
 
