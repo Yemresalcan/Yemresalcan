@@ -18,7 +18,7 @@ A passionate frontend developer from Turkey, I do content on Design and Developm
 ---
 [![](https://visitcount.itsvg.in/api?id=Yemresalcan&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<img src="https://github.com/adriantwarog/adriantwarog/blob/f18f21d501c68faff89e036755b92c53e341e8c1/ipad%20learning.gif" align="right" width="500" height="270" />
+<img src="https://github.com/adriantwarog/adriantwarog/blob/f18f21d501c68faff89e036755b92c53e341e8c1/ipad%20learning.gif" align="right" width="300" height="270" />
 
 
   <a href="https://open.spotify.com/user/yunusemesalcan?si=NBz3tSmFQjayoNPnhrxc5Q&nd=1&dlsi=be48b9827db94045">
