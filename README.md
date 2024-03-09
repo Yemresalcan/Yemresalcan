@@ -10,7 +10,7 @@ A passionate frontend developer from Turkey, I do content on Design and Developm
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:yunusemresalcan@gmail.com">
 </a>
 
-<a href="https://stackshare.io/yemresalcan">
+<a href="https://stackshare.io/yemresalcan/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/yemresalcan">
 </a>
 
