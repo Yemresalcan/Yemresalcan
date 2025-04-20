@@ -18,6 +18,8 @@ problem-solving skills, teamwork, and a continuous learning mindset drive my app
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/yemresalcan">
 </a>
 
+
+
 ## My Skills Set
 <table><tr><tr valign="top" width="25%">
 
