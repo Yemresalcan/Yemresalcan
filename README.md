@@ -134,7 +134,7 @@ problem-solving skills, teamwork, and a continuous learning mindset drive my app
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yemresalcan}/count.svg" /></p> 
 <br></div>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
+<h2 align="center"> Thanks for visiting My profile. </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF4512f&height=120&section=footer"/>
 
 
