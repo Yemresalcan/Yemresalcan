@@ -83,52 +83,6 @@ problem-solving skills, teamwork, and a continuous learning mindset drive my app
 </table>
 
 
-### 📈 GitHub Activity Graph:
-
-<p align="center">
-  <a href="https://github.com/Yemresalcan">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=Yemresalcan&theme=aura&hide_border=false&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yemresalcan">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yemresalcan&theme=aura"
-    />
-  <a href="https://github.com/Yemresalcan">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yemresalcan&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yemresalcan">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yemresalcan&theme=aura"
-    />
-  <a href="https://github.com/Yemresalcan">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yemresalcan&theme=aura&utcOffset=8"
-    />
-</p>
-
-<p align="center">
- <a href="https://github.com/Yemresalcan">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yemresalcan&theme=aura"
-    />
-</p>
-
-
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yemresalcan}/count.svg" /></p> 
