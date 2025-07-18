@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full Stack Developer with a background in Computer Engineering, experienced in designing and building scalable
 web applications. Proficient in modern frontend frameworks like React and AngularJS, as well as backend
 technologies such as .NET and Node.js. Skilled in cloud platforms (AWS, Azure) and DevOps practices (CI/CD,
